@@ -1,0 +1,63 @@
+/********************** TAG SELECTORS********************/
+
+
+li {
+padding-left: 10px;
+padding-right: 10px;
+}
+
+a {
+  color: white;
+}
+
+h3{
+  font-size: 2.5rem;
+  margin-top: 5%;
+}
+
+h4{
+margin-top: 15%;
+/* margin-bottom: 5%; */
+}
+.lead {
+  font-size: 1.5rem;
+
+}
+/********************** CLASS SELECTORS********************/
+
+.container-top{
+  /* padding: 0.5% 5%; */
+  background-color: #EAF6F6;
+}
+
+.container-middle{
+  background-color: #EAF6F6;
+  padding: 1% 5%;
+
+}
+
+.container-bottom{
+  background-color: #EAF6F6;
+  padding: 0.5% 5%;
+  padding-left:0;
+  padding-right: 0;
+}
+
+.row {
+  margin-top: 5%;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav {
+  font-size: 1.5rem;
+}
+/********************** ID SELECTORS********************/
+
+
+
+
+/* #title{
+    background-color: #2d4059 */
